@@ -44,7 +44,7 @@ $ apt install ansible
 ### 2. Clone my Github Repository to CI/CD Server
 
 ~~~
-git clone https://github.com/sebinxavi/Docker-Container-Automation.git /var/playbook
+git clone https://github.com/jeena-joy/dockerizing-flask-app.git /var/playbook
 ~~~
 
 ![alt text](https://i.ibb.co/WngzcjV/git-clone1.png)
