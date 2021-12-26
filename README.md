@@ -64,7 +64,7 @@ git clone https://github.com/sebinxavi/Docker-Container-Automation.git /var/play
 
 ##### Ansible variable file (docker.vars)
 ~~~
-repo_url: "https://github.com/sebinxavi/python-flask.git"
+repo_url: "https://github.com/jeena-joy/dockerizing-flask-app.git"
 repo_dest: "/var/repository/"
 image_name: "fujikomalan/pyflask"
 docker_username: "jeenajoy5"
