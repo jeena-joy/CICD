@@ -7,7 +7,7 @@ The process should be initiated from a commit to a specific branch of a GitHub r
 
 ## Project Architecture
 
-![alt text](https://i.ibb.co/vs9b6ps/dataflow-updated.png)
+![](https://i.ibb.co/Gccp4RY/1.png)
 
 ## Set up the Servers
 
@@ -66,8 +66,8 @@ git clone https://github.com/sebinxavi/Docker-Container-Automation.git /var/play
 ~~~
 repo_url: "https://github.com/sebinxavi/python-flask.git"
 repo_dest: "/var/repository/"
-image_name: "sebinxavi/flaskapp"
-docker_username: "sebinxavi"
+image_name: "fujikomalan/pyflask"
+docker_username: "jeenajoy5"
 docker_password: ""
 ~~~
 - Update the variables defined in the Ansible variable file (docker.vars)
